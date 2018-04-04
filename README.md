@@ -22,5 +22,6 @@ I implement the Sebastian's twiddle algorithm in the `PID::Twiddle()`. I set a i
 ## Simulation
 Below is the video I uploaded on Vimeo with the final parameters. The Vehicle can successfully drive the whole lap around the track without roll over any surfaces or pop up onto the ledges.
 
-<iframe src="https://player.vimeo.com/video/263104177" width="1280" height="960" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/263104177">PID Control Project Result Video1</a> from <a href="https://vimeo.com/user10375878">Gaspard Shen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[PID Control Result Video][203ad241]
+
+  [203ad241]: https://vimeo.com/263104177 "PID Control Result Video"
